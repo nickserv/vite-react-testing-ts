@@ -1,4 +1,4 @@
-# Vite + React + Testing
+# Vite + React + Testing + TypeScript
 
 Uses [Vite](https://vitejs.dev/), [Vitest](https://vitest.dev/), and [React Testing Library](https://github.com/testing-library/react-testing-library) to create a modern [React](https://reactjs.org/) app compatible with [Create React App](https://create-react-app.dev/)
 
